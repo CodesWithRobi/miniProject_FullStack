@@ -3,4 +3,5 @@
  It uses NodeJS with MongoDB along with ExpressJS and nodemon
 
 # Steps
-run the script.js file with node
+1.run the script.js file with node
+2.go to http://localhost:5000
